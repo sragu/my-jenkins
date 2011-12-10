@@ -1,2 +1,6 @@
 updates/
 war/
+jobs/*/builds/
+jobs/*/lastStable
+jobs/*/lastSuccessful
+jobs/*/nextBuildNumber
