@@ -4,3 +4,6 @@ jobs/*/builds/
 jobs/*/lastStable
 jobs/*/lastSuccessful
 jobs/*/nextBuildNumber
+**.bak
+
+.owner
