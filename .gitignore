@@ -8,3 +8,5 @@ jobs/*/workspace
 **.bak
 
 .owner
+identity.key
+secret.key
