@@ -20,6 +20,8 @@
       <command>pwd</command>
     </hudson.tasks.Shell>
   </builders>
-  <publishers/>
+  <publishers>
+    <hudson.plugins.statusmonitor.MonitorPublisher/>
+  </publishers>
   <buildWrappers/>
 </project>

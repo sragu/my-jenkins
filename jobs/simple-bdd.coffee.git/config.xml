@@ -53,6 +53,8 @@
       <command>jasmine-node --coffee --verbose .</command>
     </hudson.tasks.Shell>
   </builders>
-  <publishers/>
+  <publishers>
+    <hudson.plugins.statusmonitor.MonitorPublisher/>
+  </publishers>
   <buildWrappers/>
 </project>
