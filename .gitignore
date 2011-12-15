@@ -5,6 +5,7 @@ jobs/*/lastStable
 jobs/*/lastSuccessful
 jobs/*/nextBuildNumber
 jobs/*/workspace
+jobs/*/config-history
 **.bak
 
 .owner
